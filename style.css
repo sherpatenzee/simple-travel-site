@@ -1,0 +1,6 @@
+p{
+  font-family: Arial, sans-serif;
+}
+.tb,tr,td,th{
+  border: 2px solid red;
+}
